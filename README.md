@@ -1,7 +1,7 @@
 # Q-LES-Q-SF - Gamification
 A gamified version of the Q-LES-Q-SF created for a study described in the research paper called "Inclusion of neurodiversity in studies through gamification".
 
-This repository contains a branch with all the working Unity files of the gamification and a branch with the final build used for the study.
+# This repository contains the final build used for the study.
 
 ### Usage Information
 > [!IMPORTANT]
