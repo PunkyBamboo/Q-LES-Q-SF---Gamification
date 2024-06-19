@@ -6,6 +6,8 @@ This repository contains a branch with all the working Unity files of the gamifi
 ### Usage Information
 > [!IMPORTANT]
 > Uses Unity Editor Version 2022.3.25f1
+> 
+> **When conducting the study inside the final build navigate to ```\GamifiedStudy_Data\StreamingAssets\userData\userAnswers.txt``` for the answers selected by the participant.**
 
 > [!TIP]
 > To edit and view the scenes navigate to ```Assets/GameScenes``` and open ```01_Disclaimer```, ```02_Introduction```, ```03_Gameplay``` and ```04_Ending``` in order. Make sure you unload all scenes you are not currently editing to avoid overlapping.
