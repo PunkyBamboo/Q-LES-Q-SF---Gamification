@@ -1,8 +1,9 @@
 # Q-LES-Q-SF - Gamification
 A gamified version of the Q-LES-Q-SF created for a study described in the research paper called "Inclusion of neurodiversity in studies through gamification".
 
-This repository contains the working files of the gamification and the final build used for the study.
+This repository contains a branch with all the working Unity files of the gamification and a branch with the final build used for the study.
 
+### Usage Information
 > [!IMPORTANT]
 > Uses Unity Editor Version 2022.3.25f1
 
@@ -12,7 +13,11 @@ This repository contains the working files of the gamification and the final bui
 > ```Assets/Scenes``` contains the scenes ```Examples``` and ```Templates``` that offer small instructions on how to use the different elements.
 > Scripts used are found in ```Assets``` and ```Assets/Scripts```
 
-All credit for the assets used belong to their rightful owners, listed in the linklist below. Thank you to all creators that published the assets!
+### Credits
+
+All credit for the assets used belong to their rightful owners. The assets used are listed in the linklist below.
+
+Thank you to all creators that published the assets!
 
 ### Game Assets used
 
