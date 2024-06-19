@@ -1,0 +1,63 @@
+Frage 2: Okay
+Frage 1: Gut
+Frage 14: Sehr gut
+Frage 4: Sehr gut
+Frage 6: Sehr schlecht
+Frage 3: Sehr gut
+Frage 14: Gut
+Frage 4: Sehr gut
+Frage 8: Gut
+Frage 11a: Sehr gut
+Frage 11b:  Wohnsituation (UnityEngine.UI.Toggle)
+Frage 13a: Gut
+Frage 13b:  Sehstärke bei der Arbeit (UnityEngine.UI.Toggle)
+Frage 13b:  Sehstärke bei Hobbies (UnityEngine.UI.Toggle)
+Frage 7: Okay
+Frage 15b: Sehr gut
+Frage 9a: Gut
+Frage 9b:  Interesse an sexuellen Aktivitäten (UnityEngine.UI.Toggle)
+Frage 9b:  Sexuelle Leistung (UnityEngine.UI.Toggle)
+Frage 16: Gut
+Frage 3: Gut
+Frage 5: Sehr gut
+Frage 12a: Sehr gut
+Frage 12b:  Hinfallen (UnityEngine.UI.Toggle)
+Frage 6: Sehr gut
+Frage 14: Sehr gut
+Frage 1: Sehr gut
+Frage 2: Sehr gut
+Frage 10: Gut
+Frage 2: Sehr gut
+Frage 2: Sehr gut
+Frage 2: Gut
+Frage 2: Sehr gut
+Frage 1: Okay
+Frage 2: Sehr gut
+Frage 8: Sehr gut
+Frage 16: Sehr gut
+Frage 15b: Sehr gut
+Frage 1: Sehr gut
+Frage 5: Sehr gut
+Frage 2: Okay
+Frage 2: Gut
+Frage 1: Sehr gut
+Frage 14: Okay
+Frage 4: Sehr gut
+Frage 6: Sehr gut
+Frage 12a: Gut
+Frage 12b:  Schwindel (UnityEngine.UI.Toggle)
+Frage 12b:  Gefühl der Unsicherheit (UnityEngine.UI.Toggle)
+Frage 12b:  Hinfallen (UnityEngine.UI.Toggle)
+Frage 3: Sehr gut
+Frage 5: Sehr schlecht
+Frage 9a: Gut
+Frage 9b:  Interesse an sexuellen Aktivitäten (UnityEngine.UI.Toggle)
+Frage 9b:  Sexuelle Leistung (UnityEngine.UI.Toggle)
+Frage 16: Sehr gut
+Frage 10: Sehr gut
+Frage 7: Sehr schlecht
+Frage 13a: Schlecht
+Frage 13b:  Sehstärke bei Hobbies (UnityEngine.UI.Toggle)
+Frage 11a: Sehr gut
+Frage 8: Okay
+Frage 1: Okay

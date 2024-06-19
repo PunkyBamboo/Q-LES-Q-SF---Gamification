@@ -1,0 +1,4 @@
+repository "GamifiedStudy@GamificationNeurodiversity@cloud"
+  path "/"
+    br "/main"
+    co "/main"

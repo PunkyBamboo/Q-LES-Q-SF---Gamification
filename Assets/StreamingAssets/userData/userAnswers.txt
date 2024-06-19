@@ -1,0 +1,72 @@
+Evi: Frage 2: Okay
+Frage 1: Okay
+Frage 14: Okay
+Frage 4: Okay
+Frage 6: Okay
+Frage 12a: Okay
+Frage 12b:  Gefühl der Unsicherheit (UnityEngine.UI.Toggle)
+Frage 12b:  Hinfallen (UnityEngine.UI.Toggle)
+Frage 3: Okay
+Frage 5: Okay
+Frage 9a: Okay
+Frage 9b:  Libido (UnityEngine.UI.Toggle)
+Frage 9b:  Interesse an sexuellen Aktivitäten (UnityEngine.UI.Toggle)
+Frage 16: Okay
+Frage 7: Okay
+Frage 13a: Okay
+Frage 11a: Okay
+Frage 11b:  Wohnsituation (UnityEngine.UI.Toggle)
+Frage 8: Okay
+Frage 10: Okay
+Frage 2: Sehr gut
+Frage 1: Sehr gut
+Frage 14: Sehr gut
+Frage 4: Sehr gut
+Frage 6: Sehr gut
+Frage 12a: Sehr gut
+Frage 3: Sehr gut
+Frage 5: Sehr gut
+Frage 9a: Sehr gut
+Frage 16: Sehr gut
+Frage 15b: Sehr gut
+Frage 7: Sehr gut
+Frage 13a: Sehr gut
+Frage 13b:  Sehstärke bei Hobbies (UnityEngine.UI.Toggle)
+Frage 8: Sehr gut
+Frage 11a: Sehr gut
+Frage 10: Sehr gut
+Frage 13a: Okay
+Frage 13b:  Sehstärke bei Hobbies (UnityEngine.UI.Toggle)
+Frage 13a: Gut
+Frage 2: Gut
+Frage 1: Gut
+Frage 14: Gut
+Frage 4: Gut
+Frage 6: Gut
+Frage 5: Gut
+Frage 12a: Gut
+Frage 9a: Gut
+Frage 16: Gut
+Frage 15b: Gut
+Frage 7: Gut
+Frage 2: Schlecht
+Frage 1: Schlecht
+Frage 14: Schlecht
+Frage 6: Schlecht
+Frage 12a: Schlecht
+Frage 12b:  Gefühl der Unsicherheit (UnityEngine.UI.Toggle)
+Frage 3: Schlecht
+Frage 5: Schlecht
+Frage 9a: Schlecht
+Frage 9b:  Libido (UnityEngine.UI.Toggle)
+Frage 9b:  Interesse an sexuellen Aktivitäten (UnityEngine.UI.Toggle)
+Frage 16: Schlecht
+Frage 10: Schlecht
+Frage 15b: Schlecht
+Frage 7: Schlecht
+Frage 13a: Schlecht
+Frage 13b:  Sehstärke bei der Arbeit (UnityEngine.UI.Toggle)
+Frage 8: Schlecht
+Frage 11a: Schlecht
+Frage 11b:  Lebenssituation (UnityEngine.UI.Toggle)
+Frage 4: Schlecht
