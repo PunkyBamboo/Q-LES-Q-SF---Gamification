@@ -1,5 +1,5 @@
 # Q-LES-Q-SF - Gamification
-A gamified version of the Q-LES-Q-SF created for a study described in the research paper called "Inclusion of neurodiversity in studies through gamification".
+A gamified version of the Q-LES-Q-SF created for a study described in the research paper called "Leveling the Playing Field: Neurodiversity and the Potential of Gamified Research".
 
 # This repository contains the final build used for the study.
 
