@@ -35,7 +35,7 @@ Thank you to all creators that published the assets!
 - https://doublesidedcreamsicle.itch.io/cute-wizards-2
 
 **🗺️ Map**
-- https://dimexel.itch.io/dimexel-nature-pack
+- https://cypor.itch.io/12x12-rpg-tileset
 
 **🪑 Objects**
 - https://makinggamesinc.itch.io/cauldron-pixel-art
