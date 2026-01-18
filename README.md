@@ -1,5 +1,5 @@
 # Q-LES-Q-SF - Gamification
-A gamified version of the Q-LES-Q-SF created for a study described in the research paper called "Leveling the Playing Field: Neurodiversity and the Potential of Gamified Research".
+A gamified version of the Q-LES-Q-SF created at the [Technische Hochschule Ingolstadt](https://thi.de) for a study described in the research paper called ["Leveling the Playing Field: Neurodiversity and the Potential of Gamified Research"](https://doi.org/10.1145/3743049.3748578).
 
 # This branch contains the final build used for the study.
 
